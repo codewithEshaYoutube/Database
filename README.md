@@ -121,4 +121,3 @@
 
 ---
 
-This set of questions and answers covers a broad range of topics in database systems, from basic SQL to advanced concepts and NoSQL systems. Let me know if you'd like more details on any specific area!
